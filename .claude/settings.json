@@ -13,7 +13,8 @@
       "WebFetch(domain:platejs.org)",
       "WebFetch(domain:www.npmjs.com)",
       "WebFetch(domain:agentskills.io)",
-      "Skill(dev-browser:dev-browser)"
+      "Skill(dev-browser:dev-browser)",
+      "Bash(gh auth status)"
     ]
   }
 }
